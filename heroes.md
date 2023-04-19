@@ -6,5 +6,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Caperucita
+* La negrita 
 
